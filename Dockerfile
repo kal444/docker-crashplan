@@ -2,7 +2,7 @@ FROM buildpack-deps:jessie
 MAINTAINER Kyle Huang <kyle@yellowaxe.com>
 
 # find latest version here: https://www.crashplan.com/en-us/thankyou?os=linux
-ENV CRASHPLAN_VERSION=4.7.0
+ENV CRASHPLAN_VERSION=4.8.0
 ENV CRASHPLAN_SERVICE_LEVEL=CrashPlan
 # ENV CRASHPLAN_SERVICE_LEVEL=CrashPlanPRO
 
